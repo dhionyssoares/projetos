@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\Treinos\Treinos\bin\Debug\net6.0\Treinos.exe
+C:\Windows\Temp\projetos\Treinos\Treinos\bin\Debug\net6.0\Treinos.deps.json
+C:\Windows\Temp\projetos\Treinos\Treinos\bin\Debug\net6.0\Treinos.runtimeconfig.json
+C:\Windows\Temp\projetos\Treinos\Treinos\bin\Debug\net6.0\Treinos.dll
+C:\Windows\Temp\projetos\Treinos\Treinos\bin\Debug\net6.0\Treinos.pdb
+C:\Windows\Temp\projetos\Treinos\Treinos\obj\Debug\net6.0\Treinos.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\Treinos\Treinos\obj\Debug\net6.0\Treinos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\Treinos\Treinos\obj\Debug\net6.0\Treinos.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\Treinos\Treinos\obj\Debug\net6.0\Treinos.AssemblyInfo.cs
+C:\Windows\Temp\projetos\Treinos\Treinos\obj\Debug\net6.0\Treinos.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\Treinos\Treinos\obj\Debug\net6.0\Treinos.dll
+C:\Windows\Temp\projetos\Treinos\Treinos\obj\Debug\net6.0\refint\Treinos.dll
+C:\Windows\Temp\projetos\Treinos\Treinos\obj\Debug\net6.0\Treinos.pdb
+C:\Windows\Temp\projetos\Treinos\Treinos\obj\Debug\net6.0\Treinos.genruntimeconfig.cache
+C:\Windows\Temp\projetos\Treinos\Treinos\obj\Debug\net6.0\ref\Treinos.dll

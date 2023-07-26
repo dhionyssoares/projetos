@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\bin\Debug\net6.0\ExercícioExcecoes.exe
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\bin\Debug\net6.0\ExercícioExcecoes.deps.json
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\bin\Debug\net6.0\ExercícioExcecoes.runtimeconfig.json
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\bin\Debug\net6.0\ExercícioExcecoes.dll
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\bin\Debug\net6.0\ExercícioExcecoes.pdb
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\obj\Debug\net6.0\ExercícioExcecoes.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\obj\Debug\net6.0\ExercícioExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\obj\Debug\net6.0\ExercícioExcecoes.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\obj\Debug\net6.0\ExercícioExcecoes.AssemblyInfo.cs
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\obj\Debug\net6.0\ExercícioExcecoes.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\obj\Debug\net6.0\ExercícioExcecoes.dll
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\obj\Debug\net6.0\refint\ExercícioExcecoes.dll
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\obj\Debug\net6.0\ExercícioExcecoes.pdb
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\obj\Debug\net6.0\ExercícioExcecoes.genruntimeconfig.cache
+C:\Windows\Temp\projetos\ExercícioExcecoes\ExercícioExcecoes\obj\Debug\net6.0\ref\ExercícioExcecoes.dll

@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\estudos\estudos\bin\Debug\net6.0\estudos.exe
+C:\Windows\Temp\projetos\estudos\estudos\bin\Debug\net6.0\estudos.deps.json
+C:\Windows\Temp\projetos\estudos\estudos\bin\Debug\net6.0\estudos.runtimeconfig.json
+C:\Windows\Temp\projetos\estudos\estudos\bin\Debug\net6.0\estudos.dll
+C:\Windows\Temp\projetos\estudos\estudos\bin\Debug\net6.0\estudos.pdb
+C:\Windows\Temp\projetos\estudos\estudos\obj\Debug\net6.0\estudos.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\estudos\estudos\obj\Debug\net6.0\estudos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\estudos\estudos\obj\Debug\net6.0\estudos.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\estudos\estudos\obj\Debug\net6.0\estudos.AssemblyInfo.cs
+C:\Windows\Temp\projetos\estudos\estudos\obj\Debug\net6.0\estudos.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\estudos\estudos\obj\Debug\net6.0\estudos.dll
+C:\Windows\Temp\projetos\estudos\estudos\obj\Debug\net6.0\refint\estudos.dll
+C:\Windows\Temp\projetos\estudos\estudos\obj\Debug\net6.0\estudos.pdb
+C:\Windows\Temp\projetos\estudos\estudos\obj\Debug\net6.0\estudos.genruntimeconfig.cache
+C:\Windows\Temp\projetos\estudos\estudos\obj\Debug\net6.0\ref\estudos.dll

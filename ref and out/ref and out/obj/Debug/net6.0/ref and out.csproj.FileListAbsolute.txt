@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\ref and out\ref and out\bin\Debug\net6.0\ref and out.exe
+C:\Windows\Temp\projetos\ref and out\ref and out\bin\Debug\net6.0\ref and out.deps.json
+C:\Windows\Temp\projetos\ref and out\ref and out\bin\Debug\net6.0\ref and out.runtimeconfig.json
+C:\Windows\Temp\projetos\ref and out\ref and out\bin\Debug\net6.0\ref and out.dll
+C:\Windows\Temp\projetos\ref and out\ref and out\bin\Debug\net6.0\ref and out.pdb
+C:\Windows\Temp\projetos\ref and out\ref and out\obj\Debug\net6.0\ref and out.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\ref and out\ref and out\obj\Debug\net6.0\ref and out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\ref and out\ref and out\obj\Debug\net6.0\ref and out.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\ref and out\ref and out\obj\Debug\net6.0\ref and out.AssemblyInfo.cs
+C:\Windows\Temp\projetos\ref and out\ref and out\obj\Debug\net6.0\ref and out.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\ref and out\ref and out\obj\Debug\net6.0\ref and out.dll
+C:\Windows\Temp\projetos\ref and out\ref and out\obj\Debug\net6.0\refint\ref and out.dll
+C:\Windows\Temp\projetos\ref and out\ref and out\obj\Debug\net6.0\ref and out.pdb
+C:\Windows\Temp\projetos\ref and out\ref and out\obj\Debug\net6.0\ref and out.genruntimeconfig.cache
+C:\Windows\Temp\projetos\ref and out\ref and out\obj\Debug\net6.0\ref\ref and out.dll

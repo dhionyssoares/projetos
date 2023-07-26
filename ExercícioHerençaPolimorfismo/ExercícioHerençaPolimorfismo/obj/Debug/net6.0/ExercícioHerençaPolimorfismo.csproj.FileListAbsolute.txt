@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\bin\Debug\net6.0\ExercícioHerençaPolimorfismo.exe
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\bin\Debug\net6.0\ExercícioHerençaPolimorfismo.deps.json
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\bin\Debug\net6.0\ExercícioHerençaPolimorfismo.runtimeconfig.json
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\bin\Debug\net6.0\ExercícioHerençaPolimorfismo.dll
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\bin\Debug\net6.0\ExercícioHerençaPolimorfismo.pdb
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\obj\Debug\net6.0\ExercícioHerençaPolimorfismo.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\obj\Debug\net6.0\ExercícioHerençaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\obj\Debug\net6.0\ExercícioHerençaPolimorfismo.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\obj\Debug\net6.0\ExercícioHerençaPolimorfismo.AssemblyInfo.cs
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\obj\Debug\net6.0\ExercícioHerençaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\obj\Debug\net6.0\ExercícioHerençaPolimorfismo.dll
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\obj\Debug\net6.0\refint\ExercícioHerençaPolimorfismo.dll
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\obj\Debug\net6.0\ExercícioHerençaPolimorfismo.pdb
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\obj\Debug\net6.0\ExercícioHerençaPolimorfismo.genruntimeconfig.cache
+C:\Windows\Temp\projetos\ExercícioHerençaPolimorfismo\ExercícioHerençaPolimorfismo\obj\Debug\net6.0\ref\ExercícioHerençaPolimorfismo.dll

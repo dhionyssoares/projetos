@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\bin\Debug\net6.0\ExercícioOrder.exe
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\bin\Debug\net6.0\ExercícioOrder.deps.json
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\bin\Debug\net6.0\ExercícioOrder.runtimeconfig.json
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\bin\Debug\net6.0\ExercícioOrder.dll
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\bin\Debug\net6.0\ExercícioOrder.pdb
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\obj\Debug\net6.0\ExercícioOrder.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\obj\Debug\net6.0\ExercícioOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\obj\Debug\net6.0\ExercícioOrder.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\obj\Debug\net6.0\ExercícioOrder.AssemblyInfo.cs
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\obj\Debug\net6.0\ExercícioOrder.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\obj\Debug\net6.0\ExercícioOrder.dll
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\obj\Debug\net6.0\refint\ExercícioOrder.dll
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\obj\Debug\net6.0\ExercícioOrder.pdb
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\obj\Debug\net6.0\ExercícioOrder.genruntimeconfig.cache
+C:\Windows\Temp\projetos\ExercícioOrder\ExercícioOrder\obj\Debug\net6.0\ref\ExercícioOrder.dll

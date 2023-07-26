@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\bin\Debug\net6.0\ExercícioFixacaoMétodosAbstract.exe
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\bin\Debug\net6.0\ExercícioFixacaoMétodosAbstract.deps.json
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\bin\Debug\net6.0\ExercícioFixacaoMétodosAbstract.runtimeconfig.json
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\bin\Debug\net6.0\ExercícioFixacaoMétodosAbstract.dll
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\bin\Debug\net6.0\ExercícioFixacaoMétodosAbstract.pdb
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\obj\Debug\net6.0\ExercícioFixacaoMétodosAbstract.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\obj\Debug\net6.0\ExercícioFixacaoMétodosAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\obj\Debug\net6.0\ExercícioFixacaoMétodosAbstract.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\obj\Debug\net6.0\ExercícioFixacaoMétodosAbstract.AssemblyInfo.cs
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\obj\Debug\net6.0\ExercícioFixacaoMétodosAbstract.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\obj\Debug\net6.0\ExercícioFixacaoMétodosAbstract.dll
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\obj\Debug\net6.0\refint\ExercícioFixacaoMétodosAbstract.dll
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\obj\Debug\net6.0\ExercícioFixacaoMétodosAbstract.pdb
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\obj\Debug\net6.0\ExercícioFixacaoMétodosAbstract.genruntimeconfig.cache
+C:\Windows\Temp\projetos\ExercícioFixacaoMétodosAbstract\ExercícioFixacaoMétodosAbstract\obj\Debug\net6.0\ref\ExercícioFixacaoMétodosAbstract.dll

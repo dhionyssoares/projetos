@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\Exercício2\Exercício2\obj\Debug\net6.0\Exercício2.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\Exercício2\Exercício2\obj\Debug\net6.0\Exercício2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\Exercício2\Exercício2\obj\Debug\net6.0\Exercício2.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\Exercício2\Exercício2\obj\Debug\net6.0\Exercício2.AssemblyInfo.cs
+C:\Windows\Temp\projetos\Exercício2\Exercício2\obj\Debug\net6.0\Exercício2.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\Exercício2\Exercício2\bin\Debug\net6.0\Exercício2.exe
+C:\Windows\Temp\projetos\Exercício2\Exercício2\bin\Debug\net6.0\Exercício2.deps.json
+C:\Windows\Temp\projetos\Exercício2\Exercício2\bin\Debug\net6.0\Exercício2.runtimeconfig.json
+C:\Windows\Temp\projetos\Exercício2\Exercício2\bin\Debug\net6.0\Exercício2.dll
+C:\Windows\Temp\projetos\Exercício2\Exercício2\bin\Debug\net6.0\Exercício2.pdb
+C:\Windows\Temp\projetos\Exercício2\Exercício2\obj\Debug\net6.0\Exercício2.dll
+C:\Windows\Temp\projetos\Exercício2\Exercício2\obj\Debug\net6.0\refint\Exercício2.dll
+C:\Windows\Temp\projetos\Exercício2\Exercício2\obj\Debug\net6.0\Exercício2.pdb
+C:\Windows\Temp\projetos\Exercício2\Exercício2\obj\Debug\net6.0\Exercício2.genruntimeconfig.cache
+C:\Windows\Temp\projetos\Exercício2\Exercício2\obj\Debug\net6.0\ref\Exercício2.dll

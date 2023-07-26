@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\enumarações\enumarações\bin\Debug\net6.0\enumarações.exe
+C:\Windows\Temp\projetos\enumarações\enumarações\bin\Debug\net6.0\enumarações.deps.json
+C:\Windows\Temp\projetos\enumarações\enumarações\bin\Debug\net6.0\enumarações.runtimeconfig.json
+C:\Windows\Temp\projetos\enumarações\enumarações\bin\Debug\net6.0\enumarações.dll
+C:\Windows\Temp\projetos\enumarações\enumarações\bin\Debug\net6.0\enumarações.pdb
+C:\Windows\Temp\projetos\enumarações\enumarações\obj\Debug\net6.0\enumarações.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\enumarações\enumarações\obj\Debug\net6.0\enumarações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\enumarações\enumarações\obj\Debug\net6.0\enumarações.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\enumarações\enumarações\obj\Debug\net6.0\enumarações.AssemblyInfo.cs
+C:\Windows\Temp\projetos\enumarações\enumarações\obj\Debug\net6.0\enumarações.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\enumarações\enumarações\obj\Debug\net6.0\enumarações.dll
+C:\Windows\Temp\projetos\enumarações\enumarações\obj\Debug\net6.0\refint\enumarações.dll
+C:\Windows\Temp\projetos\enumarações\enumarações\obj\Debug\net6.0\enumarações.pdb
+C:\Windows\Temp\projetos\enumarações\enumarações\obj\Debug\net6.0\enumarações.genruntimeconfig.cache
+C:\Windows\Temp\projetos\enumarações\enumarações\obj\Debug\net6.0\ref\enumarações.dll

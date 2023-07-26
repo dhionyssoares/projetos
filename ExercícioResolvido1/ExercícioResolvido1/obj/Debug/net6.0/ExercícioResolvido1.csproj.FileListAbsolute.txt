@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\obj\Debug\net6.0\ExercícioResolvido1.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\obj\Debug\net6.0\ExercícioResolvido1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\obj\Debug\net6.0\ExercícioResolvido1.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\obj\Debug\net6.0\ExercícioResolvido1.AssemblyInfo.cs
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\obj\Debug\net6.0\ExercícioResolvido1.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\bin\Debug\net6.0\ExercícioResolvido1.exe
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\bin\Debug\net6.0\ExercícioResolvido1.deps.json
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\bin\Debug\net6.0\ExercícioResolvido1.runtimeconfig.json
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\bin\Debug\net6.0\ExercícioResolvido1.dll
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\bin\Debug\net6.0\ExercícioResolvido1.pdb
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\obj\Debug\net6.0\ExercícioResolvido1.dll
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\obj\Debug\net6.0\refint\ExercícioResolvido1.dll
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\obj\Debug\net6.0\ExercícioResolvido1.pdb
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\obj\Debug\net6.0\ExercícioResolvido1.genruntimeconfig.cache
+C:\Windows\Temp\projetos\ExercícioResolvido1\ExercícioResolvido1\obj\Debug\net6.0\ref\ExercícioResolvido1.dll
